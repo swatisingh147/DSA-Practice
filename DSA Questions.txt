@@ -1,0 +1,7 @@
+---2 pointer Problems
+
+125. Valid Palindrome: https://leetcode.com/problems/valid-palindrome/
+344. Reverse String: https://leetcode.com/problems/reverse-string/description/
+977. Squares of a Sorted Array: https://leetcode.com/problems/squares-of-a-sorted-array/description/
+680. Valid Palindrome II: https://leetcode.com/problems/valid-palindrome-ii/description/
+Valid Word Abbreviation : https://neetcode.io/problems/valid-word-abbreviation/question?list=neetcode250
