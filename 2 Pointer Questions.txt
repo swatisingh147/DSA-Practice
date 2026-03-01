@@ -3,5 +3,13 @@
 344. Reverse String: https://leetcode.com/problems/reverse-string/description/
 977. Squares of a Sorted Array: https://leetcode.com/problems/squares-of-a-sorted-array/description/
 680. Valid Palindrome II: https://leetcode.com/problems/valid-palindrome-ii/description/
-
 Valid Word Abbreviation : https://neetcode.io/problems/valid-word-abbreviation/question?list=neetcode250
+
+88. Merge Sorted Array: https://leetcode.com/problems/merge-sorted-array/description/
+2824. Count Pairs Whose Sum is Less than Target: https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/
+1. Two Sum: https://leetcode.com/problems/two-sum/description/
+167. Two Sum II - Input Array Is Sorted: https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/
+15. 3Sum: https://leetcode.com/problems/3sum/description/
+
+75. Sort Colors: https://leetcode.com/problems/sort-colors/
+19. Remove Nth Node From End of List: https://leetcode.com/problems/remove-nth-node-from-end-of-list/
